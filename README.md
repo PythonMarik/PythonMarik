@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marik
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning FastAPI
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me [telegram](https://t.me/marik_aaa), [vk](https://vk.com/mmmmmrn)
 - 😄 Pronouns: He/His
